@@ -55,5 +55,17 @@ height: 300px;
   position: absolute;
   bottom: 0px;
   z-index: 1;
-  margin-left: -5px;
+  
+}
+.close {
+  color: floralwhite;
+}
+.modal-header{
+  background: rebeccapurple;
+}
+#reservebutton{
+  color: floralwhite;
+}
+.modal-body{
+  background: palegoldenrod;
 }
